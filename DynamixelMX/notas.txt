@@ -1,0 +1,9 @@
+- config 
+    - params 
+
+- src
+    - OpenCM_mx.ino
+    - dynamixel_mx - ok-
+
+- CMakeLists 
+- package 

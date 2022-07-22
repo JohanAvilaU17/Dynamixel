@@ -1,4 +1,4 @@
-# Dynamixel
+# DynamixelAX
 
 - arduino ( https://emanual.robotis.com/docs/en/software/arduino_ide/ )
 
